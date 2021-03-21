@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @schackniss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @schackniss aka __Johannes__ aka Schacki
+- 👀 I’m interested in innovation, design thinking, microcontrollers and skiing
+- 🌱 I’m currently learning git and webdevelopment
+- 💞️ I’m looking to collaborate on webdevelopment
+- 📫 How to reach me: [johannes@schackniss.de](mailto:johannes@schackniss.de)
 
 <!---
 schackniss/schackniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
