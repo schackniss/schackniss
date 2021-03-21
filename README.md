@@ -2,7 +2,7 @@
 - 👀 I’m interested in innovation, design thinking, microcontrollers and skiing
 - 🌱 I’m currently learning git and webdevelopment
 - 💞️ I’m looking to collaborate on webdevelopment
-- 📫 How to reach me: [johannes@schackniss.de](mailto:johannes@schackniss.de?subject=[GitHub])
+- 📫 How to reach me: [johannes@schackniss.de](mailto:johannes@schackniss.de?subject=GitHub contact)
 
 <!---
 schackniss/schackniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
