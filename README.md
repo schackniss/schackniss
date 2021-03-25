@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schackniss aka __Johannes__ aka Schacki
+- 👋 Hi, I’m __Johannes__
 - 👀 I’m interested in innovation, design thinking, microcontrollers and skiing
 - 🌱 I’m currently learning git and webdevelopment
 - 💞️ I’m looking to collaborate on webdevelopment
