@@ -1,6 +1,7 @@
 - 👋 Hi, I’m __Johannes__
-- 👀 I’m interested in innovation, design thinking, microcontrollers & skiing
-- 🌱 I’m currently learning git & web development
+- 👀 I’m interested in innovation, design thinking, microcontrollers & skiing.
+- 🌱 I’m currently learning git & `.go`.
+- ⌨ Languages: `.c`, `.cpp` and a little bit of `.go`
 - 📫 How to reach me: [johannes@schackniss.de](mailto:johannes@schackniss.de?subject=[GitHub])
 
 <!---
